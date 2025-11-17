@@ -1,0 +1,5 @@
+[
+  { "name": "Web Server", "software": "PHP", "version": "8.1" },
+  { "name": "Database", "software": "MySQL", "version": "5.7" },
+  { "name": "CMS", "software": "WordPress", "version": "6.2.0" }
+]
