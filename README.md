@@ -2,6 +2,8 @@
 
 This is a minimal educational demo showing how a Model Context Protocol (MCP) server can normalize CTI feeds and filter them against a small asset inventory, then expose results to a Streamlit dashboard.
 
+Demo video : 
+
 Files:
 - `mcp_server.py` — FastAPI server exposing `GET /threats` on port 9000 (default via uvicorn).
 - `dashboard.py` — Streamlit app that calls the MCP server and shows relevant threats.
